@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Rates</string>
+
+    <string name="error">Error</string>
+    <string name="connection_error_message">Error. Please, check your internet connection.</string>
+    <string name="edit_text_hint">0</string>
+    <string name="rates">Rates</string>
+</resources>
